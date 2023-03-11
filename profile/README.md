@@ -1,4 +1,4 @@
-# Repository of collaborating on _NONAME_ project.
+# Repository of collaborating on KarTup project.
 
 ## Activities which are done here
 - Sharing self-written content related to the project.
