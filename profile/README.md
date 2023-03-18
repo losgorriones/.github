@@ -14,6 +14,16 @@ Because the admin of the repos is me ([mahdihaghverdi](https://github.com/mahdih
 Then s/he will create a pull request for the changes s/he has made.
 After discussing the changes that should be done to the written doc, the changes will be merged into the main branch.
 
+### Steps:
+1. Fork the repo
+2. Clone the repo
+3. `$ git switch -c yourname`
+4. do anything you want
+5. `$ git add`
+6. `$ git commit`
+7. `$ git push`
+8. create a pull request
+
 ## Technologies
   - ### [documentation](https://github.com/losgorriones/documentation)
     - To create a nice and high quality documentation (in pdf format) LaTeX will be used as the main software of the project.
